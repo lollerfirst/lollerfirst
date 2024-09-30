@@ -8,8 +8,8 @@ I am a CS graduate with a strong interest for math, applied cryptography and HPC
   - Nostr: tragic@nostrplebs.com (npub1u07xw079lxwv24xslarh2eu4v37jtjmwvev0jyk3zjhxg2wnt56seyez97)
   - Matrix: @lollerfirst:matrix.org
 
-## 👇 PGP KEYS
-
+## 👇 PGP KEYS (🔐)
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQGNBGYPE+UBDACcC3Feh35Kecjl94gk1JVDGJ3cQ8tOJG0mWrYwr7vCOncraYCZ
@@ -51,3 +51,4 @@ P8orwflONZMV02jA2+SbK/qceolyfkIe9OAjp3I77ZWNTwqDamUMWXjYWmrwFII3
 v6RUqge6gQy8s+c7Ku6odSHSIjzhKRntTm9i
 =ou+Y
 -----END PGP PUBLIC KEY BLOCK-----
+```
