@@ -4,3 +4,50 @@ I am a CS graduate with a strong interest for math, applied cryptography and HPC
 ### 🔭 Currently working on: Cashu Protocol (ecash on bitcoin rails)
 ### 👯 I’m looking to collaborate on Cashu NFC (cashu credit cards 💳)
 ### 🤔 I’m looking for help with funding 💰. Mainly so that I can go back to studying and further my knowledge.
+### 📬 You can contact me at:
+  - Nostr: tragic@nostrplebs.com (npub1u07xw079lxwv24xslarh2eu4v37jtjmwvev0jyk3zjhxg2wnt56seyez97)
+  - Matrix: @lollerfirst:matrix.org
+
+## 👇 PGP KEYS
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+v6RUqge6gQy8s+c7Ku6odSHSIjzhKRntTm9i
+=ou+Y
+-----END PGP PUBLIC KEY BLOCK-----
