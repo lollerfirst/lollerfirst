@@ -3,7 +3,7 @@ I am a CS graduate with a strong interest for math, applied cryptography and HPC
 
 ### 🔭 Currently working on: Cashu Protocol (ecash on bitcoin rails)
 ### 👯 I’m looking to collaborate/help for Cashu NFC (cashu credit cards 💳)
-### 🤔 I’m looking for help with funding 💰. Mainly so that I can go back to studying and further my knowledge.
+### 🤔 I’m looking for help with funding 💰. Mainly so that I can continue studying and further my knowledge.
 ### 📬 You can contact me at:
   - Nostr: tragic@nostrplebs.com (npub1u07xw079lxwv24xslarh2eu4v37jtjmwvev0jyk3zjhxg2wnt56seyez97)
   - Matrix: @lollerfirst:matrix.org
