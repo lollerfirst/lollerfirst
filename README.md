@@ -6,6 +6,7 @@ I am a CS graduate with a strong interest for math, applied cryptography and HPC
 ### 📬 You can contact me at:
   - Nostr: tragic@nostrplebs.com (npub1u07xw079lxwv24xslarh2eu4v37jtjmwvev0jyk3zjhxg2wnt56seyez97)
   - Matrix: @lollerfirst:matrix.org
+  - E-mail: lollerfirst@gmail.com
 
 ## 👇 PGP KEYS (🔐)
 ```
